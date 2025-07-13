@@ -8,7 +8,7 @@ Welcome to my **personal portfolio** built using cutting-edge web technologies. 
 ---
 
 ## 🧩 Features
-
+..
 - ⚙️ **Built with Vite** – Blazing fast modern tooling for frontend dev
 - 💡 **Interactive UI** – Clickable project circle layout to explore multiple projects
 - ✨ **Anime.js-powered animations** – Smooth, polished entrance and interaction effects
