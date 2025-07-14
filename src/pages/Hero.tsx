@@ -254,7 +254,7 @@ const Hero: React.FC = () => {
               <div className="hero-image relative">
                 <div className="w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden glass p-2 hover-lift">
                   <img 
-                    src="/1749380609612.jpeg" 
+                    src="/profile.jpeg" 
                     alt="Mohit Soni" 
                     className="w-full h-full object-cover rounded-full"
                   />
